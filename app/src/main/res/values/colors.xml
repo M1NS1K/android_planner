@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">#6200EE</color> <!-- 예: 보라색 -->
+    <color name="primaryDark">#3700B3</color> <!-- 예: 어두운 보라색 -->
+    <color name="accent">#03DAC5</color> <!-- 예: 민트색 -->
+    <color name="primaryLight">#BB86FC</color> <!-- 예: 밝은 보라색 -->
+    <color name="secondary">#03DAC6</color> <!-- 예: 연한 민트색 -->
+    <color name="background">#FFFFFF</color> <!-- 예: 흰색 -->
+    <color name="surface">#FFFFFF</color> <!-- 예: 흰색, UI 요소의 배경색 -->
+    <color name="error">#B00020</color> <!-- 예: 빨간색, 오류 표시용 -->
+    <color name="onPrimary">#FFFFFF</color> <!-- 예: 흰색, 주 색상 위의 텍스트 색상 -->
+    <color name="onSecondary">#000000</color> <!-- 예: 검은색, 보조 색상 위의 텍스트 색상 -->
+    <color name="onBackground">#000000</color> <!-- 예: 검은색, 배경색 위의 텍스트 색상 -->
+    <color name="onSurface">#000000</color> <!-- 예: 검은색, 표면 위의 텍스트 색상 -->
+    <color name="onError">#FFFFFF</color> <!-- 예: 흰색, 오류 색상 위의 텍스트 색상 -->
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <!-- Grey -->

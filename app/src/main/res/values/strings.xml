@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">planner_android_project</string>
+    <string name="app_name">planner</string>
+    <string name="menu">menu</string>
+    <string name="settings">setting</string>
 </resources>
