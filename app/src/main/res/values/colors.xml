@@ -16,6 +16,8 @@
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="toolbarBackground">#FFFFFF</color> <!-- 툴바 배경색 -->
+    <color name="toolbarBorderColor">#000000</color> <!-- 테두리 색상 -->
     <!-- Grey -->
     <color name="grey_50">#FAFAFA</color>
     <color name="grey_100">#F5F5F5</color>
